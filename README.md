@@ -1,7 +1,7 @@
 # 🌍 Calamity News Analysis Project
 
 ## 📌 Overview
-This is a personal Python data science project focused on collecting, processing, and analyzing global news related to natural calamities such as floods, earthquakes, droughts, hurricanes, wildfires, and other disaster events.
+This is a  web/text mining data science project focused on collecting, processing, and analyzing global news related to natural calamities such as floods, earthquakes, droughts, hurricanes, wildfires, and other disaster events.
 
 The project applies Natural Language Processing (NLP) and machine learning techniques to classify calamity types and generate country-level insights along with visual analytics.
 
