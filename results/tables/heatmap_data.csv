@@ -1,0 +1,540 @@
+location,drought,earthquake,flood,hurricane,unknown,wildfire
+AP)India,0.0,0.0,0.0,0.0,1.0,0.0
+ATLANTA,0.0,1.0,0.0,0.0,0.0,0.0
+Aceh,0.0,1.0,0.0,0.0,0.0,0.0
+Addis Ababa,0.0,0.0,0.0,0.0,1.0,0.0
+Afar,0.0,0.0,0.0,0.0,1.0,0.0
+Afghanistan,0.0,1.0,0.0,0.0,0.0,0.0
+Alabama,2.0,0.0,0.0,0.0,0.0,0.0
+Alabama-Auburn,0.0,0.0,0.0,0.0,1.0,0.0
+Alaska,0.0,14.0,0.0,1.0,0.0,1.0
+Altadena,0.0,0.0,0.0,0.0,0.0,3.0
+Amachoding,0.0,1.0,0.0,0.0,0.0,0.0
+America,0.0,0.0,1.0,0.0,2.0,0.0
+Anaheim,0.0,0.0,0.0,1.0,0.0,0.0
+Anchorage,0.0,3.0,0.0,0.0,0.0,0.0
+Andhra,0.0,0.0,0.0,1.0,0.0,0.0
+Annapurna,0.0,1.0,0.0,0.0,0.0,0.0
+Antioch,0.0,0.0,0.0,0.0,1.0,0.0
+Araceli,0.0,0.0,0.0,0.0,1.0,0.0
+Arctic,0.0,0.0,0.0,0.0,0.0,1.0
+Arkansas,0.0,1.0,0.0,0.0,1.0,0.0
+Armenia,0.0,0.0,0.0,0.0,0.0,1.0
+Asia,0.0,0.0,1.0,0.0,0.0,0.0
+Aso City,0.0,1.0,0.0,0.0,0.0,0.0
+Athens,1.0,0.0,0.0,0.0,0.0,0.0
+Atlanta,0.0,1.0,0.0,1.0,0.0,0.0
+Atlantic,0.0,0.0,0.0,5.0,0.0,0.0
+Atlantic City,0.0,0.0,1.0,1.0,0.0,0.0
+Australia,0.0,0.0,0.0,0.0,0.0,2.0
+Avery County’s,0.0,0.0,0.0,0.0,0.0,1.0
+Azerbaijan,0.0,1.0,0.0,0.0,0.0,0.0
+B.C.,0.0,0.0,1.0,0.0,0.0,1.0
+BELGRADE,0.0,0.0,0.0,0.0,1.0,0.0
+BROOKLYN,0.0,0.0,0.0,1.0,0.0,0.0
+Bahamas,0.0,0.0,0.0,0.0,3.0,0.0
+Balkans,0.0,0.0,0.0,0.0,2.0,0.0
+Bangladesh,0.0,4.0,0.0,0.0,2.0,0.0
+Barbados,0.0,0.0,0.0,0.0,1.0,0.0
+Barcelona,0.0,0.0,0.0,0.0,2.0,0.0
+Basin,1.0,0.0,0.0,0.0,0.0,0.0
+Bay,2.0,0.0,0.0,0.0,0.0,0.0
+Bay Area,0.0,1.0,0.0,0.0,0.0,0.0
+Bay Area - San Francisco Chronicle,0.0,1.0,0.0,0.0,0.0,0.0
+Bay County -,1.0,0.0,0.0,0.0,0.0,0.0
+"Bay County</a>&nbsp;&nbsp;<font color=""#6f6f6f"">Panama",1.0,0.0,0.0,0.0,0.0,0.0
+Beach Gardens,0.0,0.0,0.0,1.0,0.0,0.0
+Beale,0.0,0.0,0.0,0.0,1.0,0.0
+Best States,0.0,0.0,0.0,1.0,0.0,0.0
+Bhumjaithai,0.0,0.0,1.0,0.0,0.0,0.0
+Big Island,0.0,1.0,0.0,0.0,0.0,0.0
+Bitcoins,0.0,0.0,0.0,0.0,1.0,0.0
+Bloomberg,0.0,0.0,0.0,0.0,1.0,0.0
+Blumhouse,0.0,0.0,0.0,0.0,2.0,0.0
+Bongbong,0.0,0.0,1.0,0.0,0.0,0.0
+Bosnia-Herzegovina,0.0,0.0,0.0,0.0,2.0,0.0
+Brazil,0.0,0.0,0.0,0.0,3.0,0.0
+Breitbart,0.0,0.0,0.0,0.0,1.0,0.0
+Bremen,0.0,0.0,0.0,0.0,1.0,0.0
+Brodnica,0.0,0.0,0.0,0.0,1.0,0.0
+Brooklyn,0.0,0.0,1.0,1.0,0.0,0.0
+Brussels,0.0,0.0,0.0,0.0,1.0,0.0
+Bucket,0.0,0.0,0.0,0.0,1.0,0.0
+Buckhannon,1.0,0.0,0.0,0.0,0.0,0.0
+Buffalo,0.0,0.0,0.0,0.0,1.0,0.0
+CBMi1gFBVV95cUxQQy1jVkR4Sk1QSmpJX0NkNWd5ajQ4MmtpalJBcUpmSlNpdzg1Q0pTMDlhLXhTLWZBTDI3WDdBUXNBUnhZTklRQ3FSVkhXN3JfUUh3ZFF2T2stWVMtQzZMRVBCQy1rRXVYRk9DMWRRU3p4RmNJSXVjYnhWQ3JLTHpxN1Y3Y0kyRUFlZVVsQlhUaDNsMEpfcjVzM2FITVNidndFbVdnU29IWFV1aXpmTEtyaGFKN0c3ZU16NVdpcldtZnh2Ym5mY28zc1dxTnRfYU04TmZuWmFB?oc=5,0.0,1.0,0.0,0.0,0.0,0.0
+CBMi2AFBVV95cUxNZHJfRDNMTS12SjlnQklYRTJTZkpmUVY1a3Vub1RJUW5jTmR2bkw5OGwyS2JiV3VYczIzM3EtUXJTNEtLenNRWkFjMTV5OTUycXlMT2NMbW9faGJuSWpqTUhpVEpRczZ0X05OUW5IcmFMTWh2TU1GVFA3QjRvZDVmTWNMMGNaNzQ1bTd4Q0JxRXgyRjZtejFaNk9YMGhzbE5DNDR6VHI0QXpFVHgwMU9ZejBockVveFdxWlMtMVBfSlBVNVZPS0NPZ05xZzNiY1VaRWpJYjZxZno?oc=5,0.0,0.0,1.0,0.0,0.0,0.0
+CBMi2wFBVV95cUxQazBDaE45ZGJSbDBqQTV2ODNicE9wblJSX3VEZ2tQdldBbktjY00xVjMwU1hxR1NmN3lxNzVIM1p2RFA5RFQ2NDNJblZIS0dncGNBWFphTlFkUkNQTzdjQXhuTENWNWNuekJNdktZcE1WZ2c2Y21FaS1JZXNLaE0tRDNCMUN0LVdJVDNMUmo3RUtmWG12UWdBUE9tOVZqY2ZMdVBTVFN1YlNDeHI5WjFpdHZSZjJnSWR4ckJLaXpmWmFCWUNqVm1EeF9BdUFZTWttZTg2Tk5CMXdxN0k?oc=5,0.0,0.0,0.0,1.0,0.0,0.0
+CBMi5wFBVV95cUxNX1Z2QUtCNWgzUXg3MjF2ald0MlF4RHd1VHRqcGtMNWVsQWNBcXBpMFVyVl96ZWtnT2U5a2RkWUd4TG4xd2ExaFN2STJEUEFBNE5xZXNUM2pORG9pY241YXk2VEhZODRSOHd3MUZ1eXlkaXRseUhNNW54S0V6MHExa25kRUtVT1dWWGtJZG11NVozSE1teGE5ZTU4WFN6OWs5VXhqTWZibW1zVjM0d3VzMklSVjd6dVJQU3k5eDItRE5WOGtMcmZxS1pSUkVzMm02QUhLYXAyeERBdjRzVUQydW5vdExhdEE?oc=5,1.0,0.0,0.0,0.0,0.0,0.0
+CBMiWkFVX3lxTE54TXpUcUlyc29OQ1VFTk9MTXVsWjhZSFVUdkZULUR1YndoT293djJMNkRPQUlsamgzTkZmTHNHbTBPLTFwelR1LVM1NkU2Z0VSLXB1ZHBLVUd0Z9IBX0FVX3lxTE1od24zYU1HQk9sWm91R0ZscmpHVHNsemVTTThNZ1BNdTFJNHZQTWM2Y3Q5bnlkS3RyUDNGUnp4VkI0Rm8yVHNldnJ6MmdOUGRwN3FOVnlUWUpXNDJtQ19z?oc=5,0.0,0.0,1.0,0.0,0.0,0.0
+CBMiWkFVX3lxTE9FNmFhY1FweDdnOFRwc0FhTnRKU1hSekw1Rzc4ZzZMWWk1VnRUYS1SMW5iSWM0UnRKR1gyMU5rMkhJRjNOQjI4cldnU3oxTHdyeHlRUmdZSUNIZ9IBX0FVX3lxTE8yMlJxV0JNVGVMZGhPLVB4QkpRbmVDUXlyS0Q3Z045bHhaXy1YS3F6ZUZ1WkZGVGtyd3NrRG9CTzg1TERFVlBqS01aZ0ZSUzZ5Q2dqMWpiWU9RM3V5b0hZ?oc=5,0.0,0.0,1.0,0.0,0.0,0.0
+CBMiX0FVX3lxTFBXb2gtTU9fWjNDWUQ1ZUpUcW0xeUtoYXZGajN0VUlsaGplb2ljd2dJcDJsS3NaSnZWa2FPcnJNYUpYbFU5WU1JY3BzQ3VYc1N3SmdnSUNQa0NvbEU5cmxZ?oc=5,0.0,0.0,1.0,0.0,0.0,0.0
+CBMifEFVX3lxTE4tQlNGME1zWFhWR0V0d3ZPWWhQeGNWNHotQnRxUnBUd1g2OW1id2pTakZVeDhWcjVNUGsxcy1kTXFxQ3ZJRVlaTUJSQUxZUURlS1NDNGhCc0RYSFFMX095bEkxbk0xZHlTeng2Q01TRzNpbUQ3Yk5MRlYzREXSAYIBQVVfeXFMUEY4T3BVSE1kZU00Z2tiZzBuaHo1UXlZM25sODBUQ0tiYkl5MUQ2SnptLV9UZ3lwMThwU0FQQ0g3c2ZvWjZPWWhJRTRnREFNLVdMV2E4cW9FZkdtQkYySUZhc2VhaFczSWk1QU9Majl5b1JCdW0tOGZVaTdlMjFoODNSZw?oc=5,0.0,1.0,0.0,0.0,0.0,0.0
+CBMifkFVX3lxTE91Y3BmRURVcG16dk9va2JYUHVCQ0x5aXhhWFlqSGJUeV9aT2dNUlctTUJQY1NwcklETGtFcXY5Q2tyS3AtUTFMU0R3ekNTU0xObHEyUkNxTVJtTzNmc2FvVmZsMGpyLXRWMVVXdmt4cGRrZjlFNFpnVklaT2Fvdw?oc=5,0.0,0.0,0.0,0.0,0.0,1.0
+CBMifkFVX3lxTFBOTGV4YWpKUzVySGhRbno2YUFqMXZpNk4zNzBpSHlQSUI4WkJIRHppdWVnbHNUQ1RWbGVCaTJKMjY3dHU1VEVUX1FZOE5fTzZPQnR6UTdLS01lZTJFV29EV1dxaUhDTzdxRnRVZDRnRDJzMEhCY2RKS1N5YzBVQQ?oc=5,0.0,1.0,0.0,0.0,0.0,0.0
+CBMifkFVX3lxTFBOU1lqbVNESDFCRU1qamdyZnNFaGhDTi1YSmY0WDd3bnpRbjIyYVRCRlpJTlVTSEZkTUhybVM0QzhsOVlhYXcwSkNHRE1ZZGVVOV80VXRtVzltY0R4RXNqSG5VNU1UV0tOZUJBb1JoZm81cjc4cVNYNHJ2UFNVUQ?oc=5,0.0,0.0,0.0,0.0,0.0,1.0
+CBMihgFBVV95cUxQZk9jb3FRR2tkb3MtX0FBbm9Vdkc1VXoxcFlmR2FPZGszVFh0clpHTjhPeDZuUzNOcUJIUWNpZTBtcG4tTzJIZWtVaDlicGJSQU9HazR2aUNTTUMzWjNURHNuaGlBR3hvS3owQjhNdjIxTW1KZVluMWVsLThKeXJuWTA5NVBpUQ?oc=5,0.0,1.0,0.0,0.0,0.0,0.0
+CBMihwFBVV95cUxNYUlSTHVPRjFHR3h1V3d6S1dpWDVPSDhial9rejhjR1g4Ni1kZ3hwdmM2NmtMZmQ2eGZMV3IwcG5BeXZvWE9BWk5KeWVYZ041N2NjVGFyNi1mRXNCc0hRUDdXTW5PVlNSeEFVMm5janFWelJ6X2ktTFRHWkhuVlFvWDJmREpqRVk?oc=5,0.0,0.0,0.0,0.0,0.0,1.0
+CBMihwJBVV95cUxQRkQ5dnpvSXpUSVpsSmdmOWRJd3JVeFdHX3JGdWxwZEFraVBXYXBNcHhpeHhYQUtETEVhSVdxS3E3cXBvYi1WTXJXVjllVEExYVFSblU5Q3JNY0pXSGxwdnpZOHJfTjBCenAtWHF0WmxUMFZCX2w3c1EyeXE1MFFYT2FQU3FieGM4a09DUFBFRnlBZGJJZzROWjRQNFpiWGJDTEI4ME1BYUp3TjBKQUNBZXdmRGRFUFNpbDZRUF84U3VPR0pVSGEzdUxQRmNuUWNqUGFSaVhuSi1xTm50Z0tiUHdPZi1jRHlicWZPX2VsbXhlT1oxeC1uWk9oM19IME1pMjl3QkJaTQ?oc=5,0.0,0.0,0.0,1.0,0.0,0.0
+CBMiiAFBVV95cUxNb2NlQ01pX1dCYzFhMWJkLUdEYk1oX3E1WTZMLTlrMF9RSW9WYVE5MExja3VKSFE2OXpwTUtaTDRoeUFKRnF0Y25jcWRJeGtJcEVycFpiTjRlamM0S3BReFBRSEdCV19IS0x5UnpvZ1Y1VEdRR2pqcC15eDNJZUdPQW1waXZRbFJy?oc=5,0.0,0.0,0.0,1.0,0.0,0.0
+CBMiiAFBVV95cUxNdURlZUFNc2wyRnh1QTRVTW9LdWxkZlNKeHlIWmhrVGZKTlFiRzhoT2VsOVNGY251VWhvT0R0Z21NMmJ4eFl1VWlZdDBWeGotZnZwQ0NTU214OEhETWh0Yk5RQ2RxRmt5RnFyb3lCZE1VUzdGMHptSnJCSi1wMnVncjdONnQ2TlYz?oc=5,0.0,0.0,0.0,1.0,0.0,0.0
+CBMilAFBVV95cUxQR2x2ZmFTMXBodlJKbXlIOXNCd1MxMERNY1dzemZtRlFlbzJaNkJJZlJkNFhOTFVadUcyOFQ3YVFDX3R5Mnc4ZjUxbXRYcHhTSlpUZkM1a1cxSjFBR2QyUzNaRUhSdTIwYU5HcUU5aXBSNUxGUHhjUnZnRmZlTjlqdVhzczVCLUc0NVJCdk9XVkpvNXpm?oc=5,1.0,0.0,0.0,0.0,0.0,0.0
+CBMilgFBVV95cUxNQms2MTBIb2dXSm56TWh6LVBiRkRCM25sSnZ6bXkyNFRKYkNRMG1rY1A0UnZKa05ERnNlRGdJOWFDbWd5b3JYZC1oZG5DTkJfOHVhWEVuV0V1UllZN0EwRmNfYTJsMk5PdFg0Mlk0S2tuQjI5R2N6TTlyZUdtc2tUb1dpczAzNzJzbkMyU3hlUGpaZ1g3Q1E?oc=5,0.0,1.0,0.0,0.0,0.0,0.0
+CBMimgJBVV95cUxQbE9aSTNva3FIc29wVzhJanNFSllMZFM4bUxqWHlBNnA4YlZPenZsWEhUN0VJdDR1MnlmbkVCMG5XdlZqcW5CSl9aQ1ZUNkV4LWVZc2VGUVptZkdTY0RVako0SXYzRkJ4UzY5MDdXOVNQVHFrMEczRkZtd0JMekhnMUQxVTVlMWYyT092a0FSNHZIYU1oYzV1RUdwelRfT0l1LVFqT2JFMDdqQzZfV2RjQTQ0QUtBUjkwOHV6cUk1YzVUdGtuZjdISEFWUkwtU2p0QVl0Ymc1ZUxwbFpCdjQ4NV9COWl3UndZX1c2VWVnN1FYalN0b3U2YVFGWTV1azJHenl6U2RpUFhGRFk4YmNYcUwwSmJMeHU3bXc?oc=5,1.0,0.0,0.0,0.0,0.0,0.0
+CBMingFBVV95cUxOYUJPSWQzWmJyeDNNQmhaQ1VYc09weGNFWkVJZ0tobkVGNXN3Z1RYX2RiU1dhSDlMNVNIeHA3M2dpMnZkeVA0aWxNdC1fLTE0dkY0Q3k0YWhLTWgtbklKWnExa0pOVUtOYXRDME9TLWd3ZGNTcUN5Tkpaay1sQzhleGR3MWUzNWpxZWh5NktaVUtaUWp2OENkOXZxdWhQUQ?oc=5,0.0,0.0,0.0,1.0,0.0,0.0
+CBMioAFBVV95cUxPUDBFYmZLLXRKU1FwLVRnQzlKRFNPenk3bUJOT0UyeXBJekJnSDlDb19QekZRY2YtbFR4RDhYMU5jUkFxVS1UM1o0a1pqNkNOVThtY3dSQXFFQ2pnSlJlMWFZY3EyVHZIYTlONnFiZmtRTkM3WE93WlM2bFB5SUZUWW4tS1FneVFRZmxUMkQxREtVU0ZiQjZNUHBDQ3lsVFFH0gG0AUFVX3lxTE9ZeUpZenFYRlFER2Q3UGhMaW9lN25fM25MaWhVQmEwck96X05LRkh6MkxqUmxaUHRrdnl4NXJxb25way13OG9kMndaaFJZb1liUWExWWF6N25wWHhaMGozTlF6cGMwV0hFcmhhOFk5VnljU3FWY2dnVm9YMEVyWDk2bFcxVHRibndaaDJ3LV9OUDNRVFNjWkJMcEFaQWxXdkFKUW5xekMwejBZcWxtYkUtd0NYeQ?oc=5,0.0,0.0,0.0,1.0,0.0,0.0
+CBMiogFBVV95cUxQaEhVRDdmQ0stN3NIajBmVk5rcWw0OFhvdVlBa3NLa2dIMVZmSDR4d0tfSHFacXNTMnJwNU5XQTA1NjVSRlI1eXlncjdmQmM3cnk0VG1zQTF3OXQzQnZKSTVvcG5RUWs4TENpM3dBNlg5dTFrbWJBVUthTlQ1WTJOR3prTG5RMm83LXZpWVNLNEY0aDlPMUVQVWZYeUUtMEw3UHc?oc=5,1.0,0.0,0.0,0.0,0.0,0.0
+CBMiowFBVV95cUxQNXl1bURZNTFnM0lycl9paG1aRzRfSF9BUVoyOW1ERUNqbXFSdnNid3doZHhmc29YSjZtWXFwd3NYbkNGcnlJd05WV2haVnZYbkN6cjRqTDhXaEZwa1NJSlZ4REc3dm15d0NMNlhaMGp5VUpGWGMwTWdaVDlKZFZYd0FJZXhxTUdDeUJxOHFJQmpVT3FtUWdtX2JNdGN0YUhaNmFr?oc=5,0.0,0.0,1.0,0.0,0.0,0.0
+CBMipgFBVV95cUxOUjRvWXVfOFZxVlQ0WFhuMjV6UWxTV2kzbUpCcEN3SHgzTkpfMmlNRnNpNzlzeGN1eVY1LXJwRUVISFB0LU1DckRaaGJSWlp4cmR0TTRTYXpDOWFWOVFQZy1fdmJPRjNzY3ZBbE1PR3YwSVhBcDRIYlBJZnAyTFhjQ2d0cmRZR1B2MnY5U3N0RWc5WFhTOWVyWjNlbk84MWI1MENDTGRB?oc=5,0.0,0.0,0.0,1.0,0.0,0.0
+CBMiqwFBVV95cUxQT0Z2WGdTWnBwSGtnTWdmQ3J4T0xINmFHRjdLNU93dGhBMzMxTkxXVks1dHpaVU41cWtsSVRveHg5Z216ZC1rLVRTZURTNEx5X19qZUhKZEFNT0lfOWw1bG5FZW9lc1MxRVRWNTllU1ZGS2ZzbEJWSlJ0TldRTzBVTHpWdndJV1ZDcVpIbHdKenNCSUJaM2xacXV1aEhrUVM5VmhlS2hMaTVoTWc?oc=5,1.0,0.0,0.0,0.0,0.0,0.0
+CBMirgFBVV95cUxObk5kSk9kb0FQN09RSG9WR3VWM3hHQlZ4VDR6VV85bFpRbm5UWEJrdHhNY0g2bVpLUFFfcXM5SmQ4RThpRWJ4M1l2eEkyRGlyVC1wc1F4LTNiR2JiMjVsZ0ZWWUxrWGpkTkt1RzNLcHRMbldhckpFZm5IanpQbGFKOVJETDIydHB0Q2trWmI0cVdyOUVrMzNPTGVTYVZuaEVqVEc3dEZTWHc2SjlvYnc?oc=5,0.0,0.0,0.0,0.0,0.0,1.0
+CBMitgFBVV95cUxQd1ptZHJmSF9zeTZmS09DbDhFcGdyVXZoTHBobk93Sk9VeG1QSDhlaFFmZTFzaHc5UllSRXBWSUJlV3FoekpiVmJySFdFdFZFS01tNVlWM3dCSnBJVmZweHdpMXJwR1YzV05IbU5EeWxYUE1mWVFLMjE3bEY0eXVVNkJnSVJ3RGpySXJsM0RaRG55b1NLOFJIcXVyWl84TmJ6TW1ldlhWOFBvTlUxdEdaVzhGLWlBZw?oc=5,0.0,0.0,1.0,0.0,0.0,0.0
+CBMiugFBVV95cUxQaXdqRWlwX2VXWGtCYnBXUU96Y0JxN0YwS3FYamhvVzZIUzBWR2l5cDRwak1YYnVnUjk2UU1iQzdqMi14ZmNJX3ZyUk5uUnFuUkpMMElVWnU0Vk5Kd05JR1RyTHdFRkRpOVNQSU9OdVJObjNJN3JwWHR0SHYwdGV1LWRXcWpiVVFLWkE5cGJPcnozYldHRGRUX1RERUVBOGU0NkxmQS11N3U1b3VHdE9sN25pY3RiTzU3SUE?oc=5,1.0,0.0,0.0,0.0,0.0,0.0
+CBMivAFBVV95cUxNbmZMalRiSG1laHZ0bXlvSGdMU0tJUDJKazV0ZFVEZTZYNzM0ZFVNNlg0c2tBRlp2UUlFQi1iN210aEFZLXNya1NkMEd0ZlFELVQ2cS03aFFCbWtfQnR6NW90dWFELWJqelNoWGZlaVJhVEoxS3U1aGdoWUVWSzNWVDljdzA1QXQ4eE5BLVk4dlQxRWs3ZTFPQU93eGtoZFVucUQxRXdfYXVCbV9lM1ptdllKXzlfLVU2cmVZQw?oc=5,0.0,0.0,0.0,0.0,1.0,0.0
+CBMixAFBVV95cUxOVWR6SXBxUHRiWllScW5wdWdQZHF5T19jazRvVWFYWUJEbWl4SEZMbWk1RFYzSTRHcy1jOWdzc3J3UVF3TGo1STVJaW10TVVhYVZCYTdla01nam9kWHUxY19yMUpua3c2c1NjeHluVWNmMHhMajFsZi1UNTIzS2kyMmMtZ2tCQ0dsLWlaTU9US3RSWTd5eDhyS01IM1g0cTg0WlFkcmEtTHFELWkweGZxSGhiTklFZGp6VWhqWkNxR3hlLXhE?oc=5,0.0,1.0,0.0,0.0,0.0,0.0
+CBMiyAFBVV95cUxNU1Z0NzY2MlhINmpaV0xOc040dmRxanpYYjBIb05hOTViVm5FckNPdkJiblJmN0F3Z1hMaldkR2ZnOGQtS2F2Q0RNbS1TaXhvQXV4QVJ3X1N2VUZXc1Mzb3lOakh4R24tU2tubEtYS1R2YnJIUW40djJyZWZpZzExYmVXTjkwX0Ria1dfNThVeXV2TDZQS2lmb3ZteWhnb1RHSzNLNWZTSU5xcWcxMDlGZUZSb01WTlgtUjI2QUhEWHNmMnl0WERaSA?oc=5,0.0,0.0,0.0,1.0,0.0,0.0
+CBMiygFBVV95cUxQNVVhSGg5S3RQZHVETWNjdzZfLTJjSEtNS0sxTEl6eWZ1d1JzTUlJRVE0N3pQc3k2d1VrRmZ0bkkxSTlnWGRvcGNlUHNya29PNXR0WDBrbXdlQ1plcXNoejNKVXNacE5tek5Vc1J0UXRmRnpKOEs1OC15U0ZRUVlyRGhLMXI1bGY3UU5pamZ4WjJuSURSYWxXdkpDVzdCd3NicWJ4RTBwTXBwdTZVWmJEQWxHZGRkdU5zTzZhdUVTeHdobHpYU0I2UEtB?oc=5,0.0,0.0,0.0,1.0,0.0,0.0
+Cache Cay,0.0,0.0,0.0,0.0,1.0,0.0
+Calif.,0.0,3.0,0.0,0.0,0.0,1.0
+California,1.0,6.0,1.0,1.0,10.0,7.0
+Cambodia,1.0,0.0,0.0,0.0,0.0,0.0
+Campi,0.0,1.0,0.0,0.0,0.0,0.0
+Canada,0.0,0.0,0.0,1.0,4.0,0.0
+Candyland,0.0,0.0,0.0,0.0,1.0,0.0
+Caribbean,0.0,0.0,0.0,6.0,0.0,0.0
+Cedar Hill,0.0,0.0,0.0,0.0,1.0,0.0
+Central Water,1.0,0.0,0.0,0.0,0.0,0.0
+Charleston,0.0,0.0,0.0,1.0,0.0,0.0
+Chicago,0.0,0.0,0.0,0.0,1.0,0.0
+China,2.0,0.0,1.0,0.0,8.0,0.0
+Chippenham,0.0,0.0,1.0,0.0,0.0,0.0
+Cincinnati,0.0,0.0,1.0,0.0,0.0,0.0
+Clallam Bay,0.0,1.0,0.0,0.0,0.0,0.0
+Cleveland,0.0,0.0,0.0,0.0,1.0,0.0
+Cobb,0.0,1.0,0.0,0.0,0.0,0.0
+Colorado,0.0,0.0,0.0,0.0,1.0,1.0
+Connecticut,0.0,0.0,0.0,1.0,0.0,0.0
+Costa Mesa -,0.0,0.0,1.0,0.0,0.0,0.0
+Costa Mesa</a>&nbsp;&nbsp;<font,0.0,0.0,1.0,0.0,0.0,0.0
+Cougars,0.0,0.0,0.0,0.0,1.0,0.0
+County,0.0,0.0,0.0,0.0,0.0,1.0
+Cuba,0.0,0.0,0.0,4.0,0.0,0.0
+Custer State Park - KOTA Territory News,0.0,0.0,0.0,0.0,0.0,1.0
+D.C.,0.0,0.0,0.0,0.0,1.0,0.0
+Dallas,0.0,0.0,0.0,0.0,2.0,0.0
+Davis</font,1.0,0.0,0.0,0.0,0.0,0.0
+Decatur,1.0,0.0,0.0,0.0,0.0,0.0
+Denali Park,0.0,1.0,0.0,0.0,0.0,0.0
+Denare Beach,0.0,0.0,0.0,0.0,0.0,1.0
+Denmark,0.0,0.0,0.0,0.0,1.0,0.0
+Dhaka,0.0,1.0,0.0,0.0,0.0,0.0
+Dominican Republic,0.0,0.0,0.0,5.0,0.0,0.0
+Drysdale,1.0,0.0,0.0,0.0,0.0,0.0
+Dubai,0.0,0.0,0.0,0.0,1.0,0.0
+Dublin,1.0,0.0,0.0,0.0,0.0,0.0
+Dundalk,0.0,1.0,0.0,0.0,0.0,0.0
+Dundee,1.0,0.0,0.0,0.0,0.0,0.0
+Eagles,0.0,0.0,0.0,0.0,1.0,0.0
+Earth,0.0,3.0,1.0,1.0,1.0,0.0
+East Asia,0.0,0.0,1.0,0.0,0.0,0.0
+Ector County,0.0,0.0,1.0,0.0,0.0,0.0
+Efforts,0.0,0.0,0.0,1.0,0.0,0.0
+Egypt,0.0,0.0,1.0,0.0,0.0,0.0
+Electro,0.0,0.0,1.0,0.0,0.0,0.0
+Ethiopia,1.0,0.0,0.0,0.0,2.0,0.0
+Europe,0.0,0.0,0.0,0.0,3.0,0.0
+Fairfield,0.0,0.0,0.0,1.0,0.0,0.0
+Fingerprint,0.0,0.0,0.0,0.0,1.0,0.0
+Flegrei,0.0,1.0,0.0,0.0,0.0,0.0
+Florida,1.0,0.0,0.0,7.0,3.0,0.0
+France,0.0,0.0,0.0,0.0,2.0,0.0
+Ga.,0.0,0.0,0.0,0.0,1.0,0.0
+Gadsden County -,0.0,0.0,0.0,0.0,0.0,1.0
+Gaza,0.0,0.0,3.0,0.0,1.0,0.0
+Gaza</a>&nbsp;&nbsp;<font,0.0,0.0,1.0,0.0,0.0,0.0
+Georgia,0.0,1.0,0.0,0.0,2.0,0.0
+Germany,0.0,0.0,0.0,0.0,1.0,0.0
+Ghana,0.0,0.0,1.0,0.0,0.0,0.0
+Gilroy,0.0,2.0,0.0,0.0,0.0,0.0
+Golden State,0.0,0.0,0.0,0.0,1.0,0.0
+Gotham City,0.0,0.0,0.0,0.0,1.0,0.0
+Great Lakes,0.0,0.0,0.0,0.0,1.0,0.0
+Greece,0.0,0.0,0.0,0.0,0.0,1.0
+Guangzhou,0.0,0.0,0.0,0.0,1.0,0.0
+Gulf,0.0,0.0,0.0,1.0,0.0,0.0
+Guwahati,0.0,0.0,0.0,0.0,1.0,0.0
+Hai Yat</a>&nbsp;&nbsp;<font,0.0,0.0,1.0,0.0,0.0,0.0
+Haiti,0.0,1.0,0.0,1.0,1.0,0.0
+Happy Valley,0.0,0.0,0.0,0.0,1.0,0.0
+Hapy,0.0,0.0,1.0,0.0,0.0,0.0
+Harlingen,0.0,0.0,1.0,0.0,0.0,0.0
+Hat Yai,0.0,0.0,1.0,0.0,0.0,0.0
+Hatyai,0.0,0.0,1.0,0.0,0.0,0.0
+Havana,0.0,0.0,0.0,0.0,1.0,0.0
+Hawaii,0.0,7.0,0.0,0.0,1.0,0.0
+Hawaii Island,0.0,1.0,0.0,0.0,0.0,0.0
+Hawkins,0.0,0.0,0.0,0.0,1.0,0.0
+Heights,1.0,0.0,0.0,0.0,0.0,0.0
+Hideaway Beach,0.0,0.0,0.0,1.0,0.0,0.0
+Hillsborough County,0.0,0.0,0.0,0.0,0.0,2.0
+Hollywood,0.0,0.0,0.0,0.0,1.0,0.0
+Hong Kong,0.0,0.0,2.0,0.0,0.0,0.0
+HoopsHype,0.0,0.0,0.0,0.0,1.0,0.0
+House Speake,0.0,0.0,0.0,0.0,1.0,0.0
+Houston,1.0,0.0,0.0,1.0,4.0,0.0
+Hurricane,0.0,0.0,0.0,5.0,0.0,0.0
+IASbaba,0.0,0.0,0.0,0.0,1.0,0.0
+India,0.0,0.0,3.0,1.0,5.0,0.0
+Indian Ocean,0.0,1.0,0.0,0.0,0.0,0.0
+Indiana,0.0,0.0,0.0,0.0,3.0,0.0
+Indonesia,0.0,8.0,20.0,0.0,3.0,0.0
+Indonesia</a>&nbsp;&nbsp;<font,0.0,0.0,1.0,0.0,0.0,0.0
+Iowa,0.0,0.0,0.0,0.0,1.0,0.0
+Iran,7.0,0.0,0.0,0.0,0.0,2.0
+Irela,0.0,0.0,0.0,0.0,1.0,0.0
+Ireland,1.0,0.0,0.0,0.0,3.0,0.0
+Islamic Republic,1.0,0.0,0.0,0.0,0.0,0.0
+Island,0.0,1.0,0.0,0.0,0.0,0.0
+Israel,1.0,2.0,0.0,0.0,1.0,1.0
+Istanbul,0.0,0.0,0.0,0.0,1.0,0.0
+Italy,0.0,1.0,0.0,0.0,0.0,0.0
+Ithaca,0.0,0.0,0.0,0.0,1.0,0.0
+Jackson,0.0,0.0,0.0,0.0,1.0,0.0
+Jakarta,0.0,0.0,0.0,0.0,1.0,0.0
+Jamaica,0.0,0.0,0.0,22.0,1.0,0.0
+Jammu,0.0,0.0,0.0,0.0,1.0,0.0
+Japan,0.0,5.0,0.0,0.0,0.0,0.0
+Jasmin,0.0,0.0,0.0,0.0,1.0,0.0
+Jerusalem,0.0,0.0,0.0,0.0,0.0,1.0
+Jets,1.0,0.0,0.0,0.0,0.0,0.0
+Johannesburg,0.0,0.0,0.0,0.0,1.0,0.0
+Judea,0.0,0.0,0.0,0.0,1.0,0.0
+KUALA LUMPUR,0.0,0.0,1.0,0.0,0.0,0.0
+Kansas State,0.0,0.0,0.0,0.0,1.0,0.0
+Karapürçek,0.0,0.0,0.0,0.0,1.0,0.0
+Karditsa,0.0,1.0,0.0,0.0,0.0,0.0
+Kashmir,0.0,0.0,0.0,0.0,1.0,0.0
+Kaski,0.0,2.0,0.0,0.0,0.0,0.0
+Kedah,0.0,0.0,2.0,0.0,0.0,0.0
+Kelantan,0.0,0.0,3.0,0.0,0.0,0.0
+Kenya,0.0,1.0,0.0,0.0,1.0,0.0
+Kenyas Lake,0.0,1.0,0.0,0.0,0.0,0.0
+Kerala,0.0,0.0,0.0,1.0,0.0,0.0
+Khotang,0.0,0.0,0.0,0.0,1.0,0.0
+Kilauea</a>&nbsp;&nbsp;<font,0.0,1.0,0.0,0.0,0.0,0.0
+Kittitas,0.0,0.0,0.0,0.0,0.0,1.0
+Kittitas County - Source,0.0,0.0,0.0,0.0,0.0,1.0
+Knockout,0.0,0.0,0.0,0.0,1.0,0.0
+Kotaku,0.0,0.0,0.0,0.0,1.0,0.0
+Kīlauea,0.0,1.0,0.0,0.0,0.0,0.0
+L.A.,0.0,0.0,0.0,0.0,0.0,1.0
+LAS VEGAS,0.0,0.0,0.0,0.0,1.0,0.0
+LOS ANGELES,0.0,0.0,2.0,0.0,1.0,1.0
+Lafayette,0.0,1.0,0.0,0.0,0.0,0.0
+Lagoa,0.0,0.0,0.0,0.0,1.0,0.0
+Lahaina,0.0,0.0,0.0,0.0,0.0,1.0
+Lahewa,0.0,1.0,0.0,0.0,0.0,0.0
+Lake,0.0,1.0,0.0,0.0,0.0,0.0
+Lake Erie - AccuWeather,0.0,0.0,0.0,1.0,0.0,0.0
+Lake Erie - upi.com,0.0,0.0,0.0,1.0,0.0,0.0
+Lake Erie</a>&nbsp;&nbsp;<font,0.0,0.0,0.0,1.0,0.0,0.0
+Lane County’s,0.0,0.0,0.0,0.0,0.0,1.0
+Laoag,0.0,1.0,0.0,0.0,0.0,0.0
+Larimer County,0.0,0.0,0.0,0.0,0.0,1.0
+Las Vegas,0.0,0.0,0.0,0.0,1.0,0.0
+Leaked Audio,0.0,0.0,0.0,0.0,1.0,0.0
+Lebanon,0.0,0.0,0.0,0.0,1.0,0.0
+Leon County,2.0,0.0,0.0,0.0,0.0,0.0
+Leros,1.0,0.0,0.0,0.0,0.0,0.0
+Lexington,0.0,0.0,0.0,0.0,3.0,0.0
+Licking,0.0,0.0,1.0,0.0,0.0,0.0
+Licking River,0.0,0.0,1.0,0.0,0.0,0.0
+Liverpool,0.0,0.0,1.0,0.0,0.0,0.0
+London,0.0,0.0,0.0,0.0,2.0,0.0
+Los Angeles,0.0,0.0,3.0,0.0,2.0,8.0
+Los Angeles County,0.0,0.0,2.0,0.0,1.0,9.0
+Louisiana,0.0,0.0,1.0,0.0,0.0,0.0
+Louisville</a>&nbsp;&nbsp;<font,0.0,0.0,0.0,1.0,0.0,0.0
+Louth,0.0,1.0,0.0,0.0,0.0,0.0
+Lucasfilm,0.0,0.0,0.0,0.0,1.0,0.0
+Luochuan,0.0,0.0,0.0,0.0,1.0,0.0
+Maine,7.0,0.0,0.0,0.0,0.0,0.0
+Malacca,0.0,0.0,0.0,1.0,0.0,0.0
+Malaysia,0.0,0.0,8.0,0.0,1.0,0.0
+Manatee County,1.0,0.0,0.0,0.0,0.0,0.0
+Manatee County -,1.0,0.0,0.0,0.0,0.0,0.0
+Mandarin Orange,1.0,0.0,0.0,0.0,0.0,0.0
+Mandarin Orange Prices -,1.0,0.0,0.0,0.0,0.0,0.0
+Manhattan,0.0,0.0,0.0,0.0,1.0,0.0
+Manitoba,0.0,0.0,0.0,0.0,0.0,2.0
+Maryland,1.0,0.0,0.0,0.0,0.0,0.0
+Massachusetts,0.0,0.0,0.0,0.0,0.0,1.0
+Maui,0.0,0.0,0.0,0.0,0.0,1.0
+Maya,3.0,0.0,0.0,0.0,0.0,0.0
+Mediterranean,0.0,0.0,0.0,0.0,1.0,0.0
+Memphis,0.0,0.0,0.0,0.0,1.0,0.0
+Merri Creek,0.0,0.0,0.0,0.0,1.0,0.0
+Mexico,0.0,0.0,0.0,0.0,1.0,0.0
+Miami,0.0,0.0,0.0,1.0,1.0,0.0
+Miami CF,0.0,0.0,0.0,1.0,0.0,0.0
+Miami News</font>,0.0,0.0,0.0,1.0,0.0,0.0
+Middle East,1.0,0.0,0.0,0.0,0.0,0.0
+Middle East Eye,1.0,0.0,0.0,0.0,0.0,0.0
+Midwest,1.0,0.0,0.0,1.0,0.0,0.0
+Mindanao,0.0,1.0,0.0,0.0,0.0,0.0
+Mindful,0.0,0.0,0.0,1.0,0.0,0.0
+Mirpur,0.0,0.0,0.0,0.0,2.0,0.0
+Mississippi,1.0,0.0,0.0,1.0,1.0,1.0
+Missouri,0.0,0.0,0.0,0.0,0.0,1.0
+Mo. - KFVS12,0.0,1.0,0.0,0.0,0.0,0.0
+Mont.,0.0,0.0,0.0,0.0,2.0,0.0
+Morfovouni,0.0,1.0,0.0,0.0,0.0,0.0
+Morgan Geekie,0.0,0.0,0.0,0.0,1.0,0.0
+Myanmar,0.0,1.0,0.0,0.0,1.0,0.0
+N.J.,0.0,1.0,0.0,0.0,1.0,0.0
+N.Y.,0.0,0.0,0.0,1.0,0.0,0.0
+NE Ga. - 97.5,1.0,0.0,0.0,0.0,0.0,0.0
+NEW YORK,0.0,0.0,0.0,0.0,1.0,0.0
+NW Georgia,0.0,1.0,0.0,0.0,0.0,0.0
+Naples,0.0,1.0,0.0,0.0,0.0,0.0
+Narsingdi,0.0,1.0,0.0,0.0,0.0,0.0
+Narsingdi</a>&nbsp;&nbsp;<font,0.0,1.0,0.0,0.0,0.0,0.0
+Nassau County,0.0,0.0,0.0,0.0,0.0,1.0
+National Park,0.0,0.0,0.0,0.0,0.0,1.0
+Neb.,0.0,0.0,0.0,0.0,1.0,0.0
+Nebraska,0.0,0.0,0.0,0.0,4.0,0.0
+Nepal,0.0,0.0,0.0,0.0,2.0,0.0
+Netflix,0.0,0.0,0.0,0.0,4.0,0.0
+Netflixs,0.0,0.0,0.0,0.0,1.0,0.0
+New Hampshire,1.0,2.0,0.0,0.0,0.0,0.0
+"New Hampshire.</a>&nbsp;&nbsp;<font color=""#6f6f6f"">Seacoastonline.com</font>",0.0,1.0,0.0,0.0,0.0,0.0
+New Jersey,0.0,0.0,1.0,1.0,0.0,0.0
+New Mexico,1.0,0.0,0.0,0.0,0.0,0.0
+New Orleans,0.0,0.0,0.0,0.0,1.0,0.0
+New York,0.0,3.0,2.0,2.0,2.0,1.0
+New York City,0.0,0.0,2.0,2.0,0.0,0.0
+New York Cityand,0.0,0.0,0.0,1.0,0.0,0.0
+New Zealand,0.0,1.0,0.0,0.0,1.0,0.0
+New Zealands,0.0,0.0,0.0,0.0,1.0,0.0
+News</font,2.0,0.0,4.0,1.0,0.0,1.0
+Newswise</a>&nbsp;&nbsp;<font,1.0,0.0,0.0,0.0,0.0,0.0
+Nexperia,0.0,0.0,0.0,0.0,3.0,0.0
+Nicobar Islands,0.0,0.0,0.0,1.0,0.0,0.0
+Nile,0.0,0.0,1.0,0.0,0.0,0.0
+Nippes,0.0,0.0,0.0,1.0,0.0,0.0
+NorCal,0.0,1.0,0.0,0.0,0.0,0.0
+North America,0.0,0.0,0.0,0.0,2.0,0.0
+North Carolina,0.0,0.0,0.0,1.0,1.0,0.0
+North Carolina Highway Patrol,0.0,0.0,0.0,0.0,1.0,0.0
+North Country,1.0,0.0,0.0,0.0,0.0,0.0
+North Sumatra,0.0,1.0,0.0,0.0,0.0,0.0
+North Texas,0.0,0.0,0.0,0.0,1.0,0.0
+Northeast Florida,1.0,0.0,0.0,0.0,0.0,0.0
+Northern California,0.0,1.0,0.0,0.0,0.0,0.0
+Northern California - livemint.com,0.0,1.0,0.0,0.0,0.0,0.0
+Northern California's,0.0,0.0,0.0,0.0,1.0,0.0
+Northern Iran -,0.0,0.0,0.0,0.0,0.0,1.0
+Novembe,1.0,0.0,0.0,0.0,0.0,0.0
+Nuzzi,0.0,0.0,0.0,0.0,1.0,0.0
+Nvidia,0.0,0.0,0.0,0.0,0.0,1.0
+Ochlockonee River,1.0,0.0,0.0,0.0,0.0,0.0
+Ohio,2.0,0.0,0.0,0.0,1.0,0.0
+Oklahoma City Thunder,0.0,0.0,0.0,0.0,1.0,0.0
+Olivia Nuzzi’s,0.0,0.0,0.0,0.0,1.0,0.0
+Ontario,0.0,0.0,0.0,0.0,2.0,0.0
+Oregon,0.0,1.0,0.0,0.0,1.0,2.0
+Orlando,0.0,0.0,0.0,1.0,0.0,0.0
+Ottawa,0.0,0.0,0.0,0.0,1.0,0.0
+Pa.,0.0,0.0,0.0,0.0,1.0,0.0
+Pacific,0.0,0.0,0.0,0.0,1.0,0.0
+Pacific Pa,0.0,0.0,0.0,0.0,0.0,1.0
+Pacific Palisades,0.0,0.0,0.0,0.0,1.0,1.0
+Pacific Palisades After,0.0,0.0,0.0,0.0,0.0,1.0
+Pakistan,0.0,0.0,0.0,0.0,1.0,0.0
+Palm Beach,0.0,0.0,0.0,1.0,0.0,0.0
+Palm Beach Gardens,0.0,0.0,0.0,1.0,0.0,0.0
+Patmos,1.0,0.0,0.0,0.0,0.0,0.0
+Pelajaran,0.0,0.0,1.0,0.0,0.0,0.0
+Penang,0.0,0.0,2.0,0.0,0.0,0.0
+Pendleton County,0.0,0.0,1.0,0.0,0.0,0.0
+Penix,0.0,0.0,0.0,0.0,1.0,0.0
+Pennsylvania,1.0,0.0,0.0,0.0,0.0,1.0
+Perak,0.0,0.0,3.0,0.0,0.0,0.0
+Philippines,0.0,3.0,0.0,0.0,0.0,0.0
+"Philippines</a>&nbsp;&nbsp;<font color=""#6f6f6f"">Volcano",0.0,1.0,0.0,0.0,0.0,0.0
+Point Pleasant Beach,0.0,0.0,0.0,0.0,1.0,0.0
+Polk County,1.0,0.0,0.0,0.0,0.0,0.0
+Portugal,0.0,0.0,0.0,0.0,1.0,0.0
+Puerto Rico,0.0,0.0,0.0,0.0,1.0,0.0
+Puerto Rico - St.,0.0,0.0,0.0,1.0,0.0,0.0
+Puerto Rico</a>&nbsp;&nbsp;<font,0.0,0.0,0.0,1.0,0.0,0.0
+Pune,0.0,0.0,0.0,0.0,1.0,0.0
+Quake Hits Region,0.0,1.0,0.0,0.0,0.0,0.0
+Quebec,2.0,0.0,0.0,0.0,0.0,0.0
+Queens,0.0,0.0,0.0,0.0,1.0,0.0
+Rattles Bay Area,0.0,3.0,0.0,0.0,0.0,0.0
+Revolutions,0.0,0.0,0.0,0.0,1.0,0.0
+Rhule,0.0,0.0,0.0,0.0,1.0,0.0
+Rigby,0.0,0.0,0.0,0.0,1.0,0.0
+Riverside County,0.0,0.0,0.0,0.0,0.0,1.0
+Riyadh,0.0,0.0,0.0,0.0,1.0,0.0
+Rochelle,0.0,0.0,0.0,0.0,1.0,0.0
+Rockies</a>&nbsp;&nbsp;<font,0.0,0.0,0.0,0.0,0.0,1.0
+Roma,1.0,0.0,0.0,0.0,0.0,0.0
+Rome,0.0,1.0,0.0,0.0,0.0,0.0
+Round Valley,0.0,1.0,0.0,0.0,0.0,0.0
+Russian Federation,1.0,0.0,0.0,0.0,0.0,0.0
+S. Ga.,1.0,0.0,0.0,0.0,0.0,0.0
+SAN JUAN,0.0,0.0,0.0,0.0,1.0,0.0
+San Antonio,0.0,0.0,1.0,0.0,1.0,0.0
+San Diego,0.0,1.0,0.0,0.0,1.0,0.0
+San Diego County,0.0,0.0,0.0,0.0,1.0,0.0
+San Diego's,0.0,0.0,0.0,0.0,1.0,0.0
+San Francisco,0.0,0.0,0.0,0.0,2.0,0.0
+San Jose,0.0,1.0,0.0,0.0,0.0,0.0
+San José,0.0,1.0,0.0,0.0,0.0,0.0
+Santa Rosa,0.0,1.0,0.0,0.0,1.0,0.0
+Scandinavia,0.0,0.0,0.0,0.0,0.0,1.0
+Scotland,1.0,0.0,0.0,0.0,3.0,0.0
+Seattle,0.0,1.0,0.0,0.0,0.0,0.0
+Shein,0.0,0.0,0.0,0.0,2.0,0.0
+Shuswap,0.0,0.0,0.0,0.0,0.0,1.0
+Sicily,0.0,0.0,0.0,0.0,1.0,0.0
+Sijil,0.0,0.0,1.0,0.0,0.0,0.0
+Silicon Valley,0.0,0.0,0.0,1.0,0.0,0.0
+Somalia,5.0,0.0,0.0,0.0,0.0,0.0
+Songkhla,0.0,0.0,1.0,0.0,0.0,0.0
+Songkhla province,0.0,0.0,1.0,0.0,0.0,0.0
+Sonoma,0.0,1.0,0.0,0.0,0.0,0.0
+South,0.0,0.0,0.0,1.0,0.0,0.0
+South Africa,1.0,0.0,0.0,0.0,1.0,0.0
+South America,0.0,0.0,0.0,0.0,1.0,0.0
+South Bay - KTVU,0.0,1.0,0.0,0.0,0.0,0.0
+South Bay</a>&nbsp;&nbsp;<font,0.0,1.0,0.0,0.0,0.0,0.0
+South Carolina,0.0,1.0,0.0,0.0,0.0,0.0
+South Park,1.0,0.0,0.0,0.0,0.0,0.0
+South Park Season,1.0,0.0,0.0,0.0,0.0,0.0
+South Shore,0.0,0.0,0.0,0.0,1.0,0.0
+Southeast Georgia,1.0,0.0,0.0,0.0,0.0,0.0
+Southern California,0.0,0.0,3.0,0.0,0.0,1.0
+Southern Manitoba,0.0,0.0,0.0,0.0,0.0,1.0
+Southern Thailand,0.0,0.0,4.0,0.0,0.0,0.0
+Southwest,2.0,0.0,0.0,0.0,0.0,0.0
+Southwest Florida - WINK News,1.0,0.0,0.0,0.0,0.0,0.0
+Soweto,0.0,0.0,0.0,0.0,1.0,0.0
+Spain,0.0,0.0,1.0,0.0,0.0,0.0
+Spotify,0.0,1.0,0.0,0.0,0.0,0.0
+Springdale,0.0,0.0,0.0,0.0,1.0,0.0
+Sri,0.0,0.0,1.0,0.0,0.0,0.0
+Sri Lanka,0.0,0.0,2.0,0.0,0.0,0.0
+Sri Lanka - Anadolu,0.0,0.0,1.0,0.0,0.0,0.0
+"Sri Lanka</a>&nbsp;&nbsp;<font color=""#6f6f6f"">Anadolu Ajansı</font>",0.0,0.0,1.0,0.0,0.0,0.0
+St. John's,0.0,0.0,0.0,0.0,1.0,0.0
+St. John’s Prep’s,0.0,0.0,0.0,0.0,1.0,0.0
+Stolac,0.0,0.0,0.0,0.0,1.0,0.0
+Strait,0.0,0.0,0.0,1.0,0.0,0.0
+Sumatra,0.0,1.0,0.0,0.0,0.0,0.0
+Sumatra</a>&nbsp;&nbsp;<font,0.0,1.0,0.0,0.0,0.0,0.0
+Susitna,0.0,1.0,0.0,0.0,0.0,0.0
+Suwannee County,1.0,0.0,0.0,0.0,0.0,0.0
+Swain County,0.0,0.0,0.0,0.0,1.0,0.0
+Tallahassee,2.0,0.0,0.0,1.0,0.0,0.0
+Tampa,0.0,0.0,0.0,2.0,1.0,0.0
+Tampa Bay,3.0,0.0,0.0,0.0,0.0,0.0
+Tehran,4.0,0.0,0.0,0.0,0.0,0.0
+Tennessee,0.0,0.0,0.0,0.0,4.0,0.0
+Texas,0.0,0.0,4.0,0.0,6.0,0.0
+Thailand,0.0,0.0,23.0,0.0,0.0,0.0
+Thaksin,0.0,0.0,0.0,0.0,1.0,0.0
+The City Of Portland Takes,0.0,1.0,0.0,0.0,0.0,0.0
+The Moon River,0.0,0.0,0.0,0.0,1.0,0.0
+Tibet,0.0,0.0,0.0,0.0,1.0,0.0
+Tulsa,0.0,0.0,0.0,0.0,1.0,0.0
+Turkey,0.0,0.0,0.0,0.0,3.0,0.0
+Tyler,0.0,0.0,0.0,0.0,1.0,0.0
+Ukraine,0.0,0.0,0.0,0.0,1.0,0.0
+United Front,0.0,0.0,0.0,0.0,1.0,0.0
+United Kingdom,0.0,1.0,0.0,0.0,4.0,2.0
+United States,1.0,4.0,2.0,14.0,21.0,1.0
+"United States</a>&nbsp;&nbsp;<font color=""#6f6f6f"">Volcano Discovery</font>",0.0,1.0,0.0,0.0,0.0,0.0
+Upgrades,0.0,0.0,1.0,0.0,0.0,0.0
+Upshur County,1.0,0.0,0.0,0.0,0.0,0.0
+Uzbekistan,0.0,0.0,0.0,0.0,1.0,0.0
+Valencia,0.0,0.0,0.0,0.0,1.0,0.0
+Valley,0.0,0.0,0.0,0.0,0.0,1.0
+Valverde,0.0,0.0,0.0,0.0,1.0,0.0
+Vermont,2.0,0.0,0.0,0.0,0.0,0.0
+Vernon,0.0,0.0,0.0,0.0,1.0,0.0
+Vietnam,0.0,0.0,2.0,0.0,0.0,0.0
+WA</a>&nbsp;&nbsp;<font,0.0,1.0,0.0,0.0,0.0,0.0
+WASHINGTON,0.0,0.0,0.0,0.0,3.0,0.0
+WEST HOLLYWOOD,0.0,0.0,0.0,0.0,0.0,1.0
+Wallowa County Chieftain,0.0,0.0,0.0,1.0,0.0,0.0
+Washington,0.0,0.0,1.0,1.0,1.0,0.0
+Waterproof,0.0,0.0,1.0,0.0,0.0,0.0
+West,0.0,0.0,0.0,0.0,1.0,0.0
+West Sumatra,0.0,0.0,2.0,0.0,0.0,0.0
+West Texas,0.0,0.0,1.0,0.0,0.0,0.0
+West Texas County Struggles,0.0,0.0,1.0,0.0,0.0,0.0
+West Texas county,0.0,0.0,1.0,0.0,0.0,0.0
+West Virginia,1.0,0.0,0.0,0.0,0.0,0.0
+West Virginia - WTAP,1.0,0.0,0.0,0.0,0.0,0.0
+West Virginia</a>&nbsp;&nbsp;<font,1.0,0.0,0.0,0.0,0.0,0.0
+Western Jamaica - DancehallMag,0.0,0.0,0.0,1.0,0.0,0.0
+White River Valley,0.0,0.0,0.0,1.0,0.0,0.0
+Wichita County,1.0,0.0,0.0,0.0,0.0,0.0
+Wildfire,0.0,0.0,0.0,0.0,0.0,1.0
+Wildfire Prevention - Impakter,0.0,0.0,0.0,0.0,0.0,1.0
+Yavapai County,0.0,0.0,0.0,0.0,0.0,1.0
+Yellowstone,0.0,2.0,0.0,0.0,1.0,0.0
+Zendaya,0.0,0.0,0.0,0.0,0.0,1.0
+bett,0.0,0.0,0.0,0.0,1.0,0.0
+"color=""#6f6f6f"">Alaska",0.0,1.0,0.0,0.0,0.0,0.0
+"color=""#6f6f6f"">CNN</font",0.0,0.0,1.0,1.0,0.0,0.0
+"color=""#6f6f6f"">Euronews.com</font",0.0,0.0,1.0,0.0,0.0,0.0
+"color=""#6f6f6f"">Greek City Times</font>",0.0,1.0,0.0,0.0,0.0,0.0
+"color=""#6f6f6f"">San Francisco",0.0,1.0,0.0,0.0,1.0,0.0
+"color=""#6f6f6f"">fox10tv.com</font",1.0,0.0,0.0,0.0,0.0,0.0
+consecu,0.0,0.0,0.0,0.0,1.0,0.0
+counties</a>&nbsp;&nbsp;<font,0.0,1.0,0.0,0.0,0.0,0.0
+dead</a>&nbsp;&nbsp;<font,0.0,0.0,1.0,0.0,0.0,0.0
+humanitys,0.0,0.0,1.0,0.0,0.0,0.0
+low</a>&nbsp;&nbsp;<font,1.0,0.0,0.0,0.0,0.0,0.0
+missing</a>&nbsp;&nbsp;<font,0.0,0.0,1.0,0.0,0.0,0.0
+n’t,0.0,0.0,0.0,0.0,1.0,0.0
+snowpack</a>&nbsp;&nbsp;<font,0.0,0.0,0.0,1.0,0.0,0.0
+soon?</a>&nbsp;&nbsp;<font,1.0,0.0,0.0,0.0,0.0,0.0
+"target=""_blank"">Dominican Republic",0.0,0.0,0.0,3.0,0.0,0.0
+"target=""_blank"">Hideaway Beach",0.0,0.0,0.0,1.0,0.0,0.0
+"target=""_blank"">Pendleton County",0.0,0.0,1.0,0.0,0.0,0.0
+"target=""_blank"">Thai",0.0,0.0,1.0,0.0,0.0,0.0
+"target=""_blank"">Upshur County",1.0,0.0,0.0,0.0,0.0,0.0
+"target=""_blank"">Veteran",0.0,0.0,0.0,1.0,0.0,0.0
+"target=""_blank"">Wichita County",1.0,0.0,0.0,0.0,0.0,0.0
+the Bay Area,0.0,4.0,0.0,0.0,0.0,0.0
+the Black Canyon,0.0,0.0,0.0,0.0,0.0,1.0
+the East Coast,0.0,0.0,1.0,1.0,0.0,0.0
+the Eastern Province,0.0,0.0,1.0,0.0,0.0,0.0
+the Greater Bay Area Sports Centre,0.0,0.0,0.0,0.0,1.0,0.0
+the Kansas City Chiefs,0.0,0.0,0.0,0.0,1.0,0.0
+the Maya Urban,1.0,0.0,0.0,0.0,0.0,0.0
+the Maya Urban Collapse - SciTechDaily,1.0,0.0,0.0,0.0,0.0,0.0
+the Methow Valley,0.0,0.0,0.0,0.0,1.0,0.0
+the Moon River,0.0,0.0,0.0,0.0,1.0,0.0
+the Pacific Palisades,0.0,0.0,0.0,0.0,1.0,1.0
+the River Indus,0.0,0.0,0.0,0.0,1.0,0.0
+the Rose Parade,0.0,0.0,0.0,0.0,1.0,0.0
+the Smart City,0.0,0.0,0.0,0.0,1.0,0.0
+the South Bay,0.0,1.0,0.0,0.0,0.0,0.0
+the South Rim,0.0,0.0,0.0,0.0,0.0,1.0
+the Strait of Malacca,0.0,0.0,0.0,1.0,0.0,0.0
+the Tampa Bay,1.0,0.0,0.0,0.0,0.0,0.0
+the United Arab Emirates,0.0,0.0,0.0,0.0,1.0,0.0
+the United States,0.0,0.0,0.0,0.0,3.0,0.0
+the United States - Association of Health Care Journalists,0.0,0.0,1.0,0.0,0.0,0.0
+the Vegas Strip,0.0,0.0,0.0,0.0,1.0,0.0
+the Wii U,0.0,0.0,0.0,0.0,1.0,0.0
+the islands eastern region,0.0,0.0,0.0,1.0,0.0,0.0
+turkey,0.0,0.0,0.0,0.0,1.0,0.0
+west Gadsden,0.0,0.0,0.0,0.0,0.0,1.0
+west coast,0.0,0.0,0.0,1.0,0.0,0.0
