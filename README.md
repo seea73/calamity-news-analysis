@@ -10,29 +10,38 @@ This repository is maintained for personal learning, experimentation, and portfo
 ---
 
 ## 📂 Project Structure
+
 FINAL_PROJECT/
-├── src/ # Core data processing, NLP, and ML scripts
-│ ├── preprocess.py
-│ ├── ner_countries.py
-│ ├── label_calamity.py
-│ ├── features_models.py
-│ └── aggregate_visuals.py
+├── src/
+│   ├── preprocess.py
+│   ├── ner_countries.py
+│   ├── label_calamity.py
+│   ├── features_models.py
+│   └── aggregate_visuals.py
 │
-├── sources/ # News data collection modules
-│ ├── gdelt_fetch.py
-│ ├── google_rss_fetch.py
-│ └── newsapi_fetch.py
+├── sources/
+│   ├── gdelt_fetch.py
+│   ├── google_rss_fetch.py
+│   └── newsapi_fetch.py
 │
 ├── results/
-│ ├── figures/ # Generated plots and visualizations
-│ ├── tables/ # CSV summary and aggregation tables
-│ ├── confusion_matrix_lr.png
-│ ├── confusion_matrix_nb.png
-│ ├── model_report.txt
-│ └── test_predictions.csv
+│   ├── figures/
+│   │   ├── heatmap_calamity_country.png
+│   │   ├── top_10_calamities.png
+│   │   └── confusion_matrix.png
+│   │
+│   ├── tables/
+│   │   ├── aggregated_calamities.csv
+│   │   └── country_calamity_counts.csv
+│   │
+│   ├── confusion_matrix_lr.png
+│   ├── confusion_matrix_nb.png
+│   ├── model_report.txt
+│   └── test_predictions.csv
 │
-├── scrape_news.py # Main pipeline execution script
+├── scrape_news.py
 └── README.md
+
 
 ---
 
