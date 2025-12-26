@@ -11,36 +11,32 @@ This repository is maintained for personal learning, experimentation, and portfo
 
 ## 📂 Project Structure
 
-FINAL_PROJECT/
+calamity-news-analysis/
+│
+├── README.md
+├── scrape_news.py              # Main pipeline entry point
+│
 ├── src/
-│   ├── preprocess.py
-│   ├── ner_countries.py
-│   ├── label_calamity.py
-│   ├── features_models.py
-│   └── aggregate_visuals.py
+│   ├── __init__.py
+│   ├── preprocess.py           # Text cleaning and preprocessing
+│   ├── ner_countries.py        # Country extraction using NER
+│   ├── label_calamity.py       # Calamity labeling logic
+│   ├── features_models.py      # Feature engineering and ML models
+│   └── aggregate_visuals.py    # Aggregation and visualization logic
 │
 ├── sources/
-│   ├── gdelt_fetch.py
-│   ├── google_rss_fetch.py
-│   └── newsapi_fetch.py
+│   ├── gdelt_fetch.py          # GDELT news data collection
+│   ├── google_rss_fetch.py     # Google RSS news scraping
+│   └── newsapi_fetch.py        # NewsAPI data fetching
 │
-├── results/
-│   ├── figures/
-│   │   ├── heatmap_calamity_country.png
-│   │   ├── top_10_calamities.png
-│   │   └── confusion_matrix.png
-│   │
-│   ├── tables/
-│   │   ├── aggregated_calamities.csv
-│   │   └── country_calamity_counts.csv
-│   │
-│   ├── confusion_matrix_lr.png
-│   ├── confusion_matrix_nb.png
-│   ├── model_report.txt
-│   └── test_predictions.csv
-│
-├── scrape_news.py
-└── README.md
+└── results/
+    ├── figures/                # Generated plots and visualizations
+    ├── tables/                 # Aggregated CSV outputs
+    ├── confusion_matrix_lr.png # Logistic Regression results
+    ├── confusion_matrix_nb.png # Naive Bayes results
+    ├── model_report.txt        # Model evaluation report
+    └── test_predictions.csv    # Model predictions
+
 
 
 ---
