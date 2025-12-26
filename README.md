@@ -11,6 +11,7 @@ This repository is maintained for personal learning, experimentation, and portfo
 
 ## 📂 Project Structure
 
+```
 calamity-news-analysis/
 │
 ├── README.md
@@ -37,6 +38,7 @@ calamity-news-analysis/
     ├── model_report.txt        # Model evaluation report
     └── test_predictions.csv    # Model predictions
 
+```
 
 
 ---
